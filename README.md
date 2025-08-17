@@ -14,7 +14,9 @@
   <h3 align="center">Promptly – AI Prompt Sharing App</h3>
 
    <div align="center">
-     A full-stack Next.js 14 application for discovering, creating, and sharing AI-powered prompts with the community.
+     A full-stack Next.js 14 application for discovering, creating, and sharing AI-powered prompts with the community.  
+     <br />
+     <b>👉 You can see it live here: <a href="https://promptly.vercel.app/" target="_blank">https://promptly.vercel.app/</a></b>
     </div>
 </div>
 
@@ -41,7 +43,7 @@ It allows users to:
 - Manage personal profiles with CRUD operations  
 - Authenticate securely with Google  
 
-This project was my learning step into **Next.js full-stack development** and **cloud deployment** using **Vercel + MongoDB Atlas**.
+This project was my learning step into **Next.js full-stack development** and **cloud deployment** using **Vercel + MongoDB Atlas**.  
 
 ---
 
