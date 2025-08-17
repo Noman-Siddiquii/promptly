@@ -24,8 +24,6 @@
 3. [Features](#features)  
 4. [Screenshots](#screenshots)  
 5. [Quick Start](#quick-start)  
-6. [Deployment](#deployment)  
-7. [Links](#links)  
 
 ---
 
