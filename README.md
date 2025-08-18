@@ -11,7 +11,7 @@
    <div align="center">
      A full-stack Next.js 14 application for discovering, creating, and sharing AI-powered prompts with the community.  
      <br />
-     <b>👉 You can see it live here: <a href="https://promptly-ku56exxpo-noman-ahmed-siddiquis-projects.vercel.app/" target="_blank">https://promptly.vercel.app/</a></b>
+     <b>👉 You can see it live here: <a href="https://promptly-indol-five.vercel.app/" target="_blank">https://promptly-indol-five.vercel.app/</a></b>
     </div>
 </div>
 
